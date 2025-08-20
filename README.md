@@ -1,2 +1,12 @@
 # CS_255
 System analysis and design
+Summary of the DriverPass Project
+The DriverPass project involved designing a system for a client who wanted to improve how students prepare for their driving exams. The client, DriverPass, needed a system that would allow students to schedule lessons, take practice tests, and manage payments. They also wanted instructors and secretaries to be able to manage schedules and records, while syncing test questions and policies with the DMV. The goal was to build a reliable and user-friendly platform that supports both administrative and student needs.
+What I Did Well
+I think I did particularly well in organizing the requirements and translating them into a system design. My UML diagrams clearly showed the relationships between classes and processes, and I was able to connect functional requirements to technical needs in a way that made sense. I also did well in documenting the system so that another developer or stakeholder could quickly understand how it works.
+What I Would Revise
+If I could revise one part of my work, I would focus on adding more detail to the nonfunctional requirements. While I covered performance, accuracy, and platform constraints, I could expand more on security and scalability. For example, describing how user authentication would be handled or how the system could support a growing number of users would make the design stronger.
+How I Interpreted and Implemented User Needs
+I interpreted user needs by analyzing the interview transcript and identifying key functions the client wanted such as scheduling, test preparation, and payment processing. These needs directly shaped the entities, relationships, and workflows in my system design. Considering user needs is important because if the system doesn’t solve their problems in a clear, usable way, then even the most technically advanced solution won’t be successful.
+My Approach to Designing Software
+My approach starts with gathering and analyzing requirements from the client to fully understand what they want the system to do. I then break those requirements into functional and nonfunctional categories, create models such as UML diagrams, and map out how data and processes connect. Moving forward, I want to continue using techniques like use case diagrams, sequence diagrams, and activity diagrams, combined with iterative feedback. This structured but flexible approach helps ensure the system design is both technically sound and user-centered.
